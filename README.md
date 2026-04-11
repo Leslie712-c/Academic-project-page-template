@@ -18,7 +18,7 @@ Example project pages built using this template are:
 - https://horwitz.ai/3d_ads/
 - https://vision.huji.ac.il/ssrl_ad
 - https://vision.huji.ac.il/deepsim
-
+- https://www.bilibili.com/video/BV1rA41177sC/?spm_id_from=333.337.search-card.all.click
 
 
 ## Start using the template
