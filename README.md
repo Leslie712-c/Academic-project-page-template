@@ -46,7 +46,7 @@ To edit the websites contents edit the `index.html` file. It contains different 
 - Video carousel
 - PDF poster viewer
 - BibTeX citation
-- ![我的图片](static/images/my_figure.jpg)
+- ![My Figure](static/images/my_figure.jpg)
 
 ## Customization
 
